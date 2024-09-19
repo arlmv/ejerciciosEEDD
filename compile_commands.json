@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo07\\main.cpp -o C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo06\\main.cpp -o C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo05\\main.cpp -o C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo04\\main.cpp -o C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo08\\main.cpp -o C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo03\\main.cpp -o C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejercicio02\\main.cpp",
+  "directory": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejercicio02",
+  "command": "clang++ -c C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejercicio02\\main.cpp -o C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejercicio02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejercicio01\\main.cpp",
+  "directory": "C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejercicio01",
+  "command": "clang++ -c C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejercicio01\\main.cpp -o C:\\Users\\artmv\\Documents\\ejerciciosEEDD\\Ejercicio01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
