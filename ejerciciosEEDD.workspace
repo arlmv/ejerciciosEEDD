@@ -2,12 +2,12 @@
 <CodeLite_Workspace Name="ejerciciosEEDD" Database="" Version="10000">
   <Project Name="Ejemplo01" Path="Ejercicio01/Ejercicio01.project" Active="No"/>
   <Project Name="Ejemplo02" Path="Ejercicio02/Ejercicio02.project" Active="No"/>
-  <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project" Active="No"/>
+  <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project" Active="Yes"/>
   <Project Name="Ejemplo04" Path="Ejemplo04/Ejemplo04.project" Active="No"/>
   <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project" Active="No"/>
   <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project" Active="No"/>
   <Project Name="Ejemplo07" Path="Ejemplo07/Ejemplo07.project" Active="No"/>
-  <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project" Active="Yes"/>
+  <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
