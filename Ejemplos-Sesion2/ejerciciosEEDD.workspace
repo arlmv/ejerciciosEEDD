@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="ejerciciosEEDD" Database="" Version="10000">
-  <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="Yes"/>
-  <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project"/>
+  <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="No"/>
+  <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project" Active="No"/>
+  <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project" Active="No"/>
+  <Project Name="Ejemplo04" Path="Ejemplos-04/Ejemplos-04.project" Active="No"/>
+  <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project" Active="No"/>
+  <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -23,6 +27,10 @@
       <Project Name="Ejemplo08" ConfigName="Debug"/>
       <Project Name="Ejemplo01" ConfigName="Debug"/>
       <Project Name="Ejemplo02" ConfigName="Debug"/>
+      <Project Name="Ejemplo03" ConfigName="Debug"/>
+      <Project Name="Ejemplo04" ConfigName="Debug"/>
+      <Project Name="Ejemplo05" ConfigName="Debug"/>
+      <Project Name="Ejemplo06" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -44,6 +52,10 @@
       <Project Name="Ejemplo08" ConfigName="Release"/>
       <Project Name="Ejemplo01" ConfigName="Release"/>
       <Project Name="Ejemplo02" ConfigName="Release"/>
+      <Project Name="Ejemplo03" ConfigName="Release"/>
+      <Project Name="Ejemplo04" ConfigName="Release"/>
+      <Project Name="Ejemplo05" ConfigName="Release"/>
+      <Project Name="Ejemplo06" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
