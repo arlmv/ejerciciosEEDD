@@ -7,7 +7,7 @@ int main(int argc, char **argv)
     x = x + 1;
     char c = x;
     
-    cout << "El valor del int \"x\" es" << x << "." << endl;
-    cout << "El valor del int \"c\" es" << c << "." << endl;
+    cout << "El valor del int \"x\" es " << x << "." << endl;
+    cout << "El valor del int \"c\" es " << c << "." << endl;
     return 0;
 }
